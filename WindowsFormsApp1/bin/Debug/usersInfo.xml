@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <UserName>Ömer Kurtuldu</UserName>
+    <Password>c12a2065e7798b804e3c0b2bf7ca1da0a7b3a86c1f95c2ac9042332d9fab87b4</Password>
+    <NameSurname>OmerKurtuldu</NameSurname>
+    <PhoneNumber>(555) 555-55-55</PhoneNumber>
+    <Adress>odunpazarıı</Adress>
+    <City>eskişehir</City>
+    <Country>Türkiye</Country>
+    <Email>omerkurtuldu11@gmail.com</Email>
+    <Score>0</Score>
+  </User>
+  <User>
+    <UserName>ömer</UserName>
+    <Password>03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4</Password>
+    <NameSurname>Ömer Kurtuldu</NameSurname>
+    <PhoneNumber>(539) 555-55-55</PhoneNumber>
+    <Adress>odunpazarı</Adress>
+    <City>eskişehir</City>
+    <Country>Türkiye</Country>
+    <Email>omerkurtuldu11@gmail.com</Email>
+    <Score>250</Score>
+  </User>
+</Users>

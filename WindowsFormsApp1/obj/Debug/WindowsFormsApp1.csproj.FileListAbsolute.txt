@@ -1,0 +1,36 @@
+C:\Repostorie\OOPgame\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Repostorie\OOPgame\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Repostorie\OOPgame\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainGame.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.signUp.resources
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainGame.resources
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.resources
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.signUp.resources
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\XML UYGULAMASI SİGN UP SCREEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.managerScreen.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.managerScreen.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.checkPassword.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.profileScreen.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.About.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlayGround.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpScreen.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Scores.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.g.resources
+C:\Repostorie\OOPgame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Multiplayer.resources
